@@ -1,0 +1,176 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Adder",
+            "request": "launch",
+            "mainClass": "Week1.Adder",
+            "projectName": "Learn-Java_20510f6e"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "Week1.HelloWorld",
+            "projectName": "Learn-Java_20510f6e"
+        },
+        {
+            "type": "java",
+            "name": "Multiplier",
+            "request": "launch",
+            "mainClass": "Week1.Multiplier",
+            "projectName": "Learn-Java_20510f6e"
+        },
+        {
+            "type": "java",
+            "name": "PersonalGreeting",
+            "request": "launch",
+            "mainClass": "Week1.PersonalGreeting",
+            "projectName": "Learn-Java_20510f6e"
+        },
+        {
+            "type": "java",
+            "name": "BooleanExpr",
+            "request": "launch",
+            "mainClass": "Week2.BooleanExpr",
+            "projectName": "Learn-Java_20510f6e"
+        },
+        {
+            "type": "java",
+            "name": "Distance1",
+            "request": "launch",
+            "mainClass": "Week2.Distance1",
+            "projectName": "Learn-Java_20510f6e"
+        },
+        {
+            "type": "java",
+            "name": "Distance2",
+            "request": "launch",
+            "mainClass": "Week2.Distance2",
+            "projectName": "Learn-Java_20510f6e"
+        },
+        {
+            "type": "java",
+            "name": "FacePrinter",
+            "request": "launch",
+            "mainClass": "Week2.FacePrinter",
+            "projectName": "Learn-Java_20510f6e"
+        },
+        {
+            "type": "java",
+            "name": "FixedDivider",
+            "request": "launch",
+            "mainClass": "Week2.FixedDivider",
+            "projectName": "Learn-Java_20510f6e"
+        },
+        {
+            "type": "java",
+            "name": "Gambler",
+            "request": "launch",
+            "mainClass": "Week2.Gambler",
+            "projectName": "Learn-Java_20510f6e"
+        },
+        {
+            "type": "java",
+            "name": "ImQuadraticSolver",
+            "request": "launch",
+            "mainClass": "Week2.ImQuadraticSolver",
+            "projectName": "Learn-Java_20510f6e"
+        },
+        {
+            "type": "java",
+            "name": "LargestDouble",
+            "request": "launch",
+            "mainClass": "Week2.LargestDouble",
+            "projectName": "Learn-Java_20510f6e"
+        },
+        {
+            "type": "java",
+            "name": "LopsidedNumberTriangle",
+            "request": "launch",
+            "mainClass": "Week2.LopsidedNumberTriangle",
+            "projectName": "Learn-Java_20510f6e"
+        },
+        {
+            "type": "java",
+            "name": "MultiplesLoopRange",
+            "request": "launch",
+            "mainClass": "Week2.MultiplesLoopRange",
+            "projectName": "Learn-Java_20510f6e"
+        },
+        {
+            "type": "java",
+            "name": "PolarCoordinates",
+            "request": "launch",
+            "mainClass": "Week2.PolarCoordinates",
+            "projectName": "Learn-Java_20510f6e"
+        },
+        {
+            "type": "java",
+            "name": "QuadraticSolver",
+            "request": "launch",
+            "mainClass": "Week2.QuadraticSolver",
+            "projectName": "Learn-Java_20510f6e"
+        },
+        {
+            "type": "java",
+            "name": "SaferDivider",
+            "request": "launch",
+            "mainClass": "Week2.SaferDivider",
+            "projectName": "Learn-Java_20510f6e"
+        },
+        {
+            "type": "java",
+            "name": "SaferQuadraticSolver",
+            "request": "launch",
+            "mainClass": "Week2.SaferQuadraticSolver",
+            "projectName": "Learn-Java_20510f6e"
+        },
+        {
+            "type": "java",
+            "name": "SquaresLoop",
+            "request": "launch",
+            "mainClass": "Week2.SquaresLoop",
+            "projectName": "Learn-Java_20510f6e"
+        },
+        {
+            "type": "java",
+            "name": "SquaresLoopRange",
+            "request": "launch",
+            "mainClass": "Week2.SquaresLoopRange",
+            "projectName": "Learn-Java_20510f6e"
+        },
+        {
+            "type": "java",
+            "name": "ArithmeticSeries",
+            "request": "launch",
+            "mainClass": "Week3.ArithmeticSeries",
+            "projectName": "Learn-Java_20510f6e",
+            "args": ["5"]
+        },
+        {
+            "type": "java",
+            "name": "ArrayRotate",
+            "request": "launch",
+            "mainClass": "Week3.ArrayRotate",
+            "projectName": "Learn-Java_20510f6e"
+        },
+        {
+            "type": "java",
+            "name": "FloatDiv",
+            "request": "launch",
+            "mainClass": "Week3.FloatDiv",
+            "projectName": "Learn-Java_20510f6e"
+        }
+    ]
+}
