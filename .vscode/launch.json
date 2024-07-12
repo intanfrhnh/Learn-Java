@@ -6,11 +6,30 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Sieve",
+            "request": "launch",
+            "mainClass": "Week3.Sieve",
+            "projectName": "Learn-Java_20510f6e"
+        },
+        {
+            "type": "java",
             "name": "Mode",
             "request": "launch",
             "mainClass": "Week3.Mode",
             "projectName": "Learn-Java_20510f6e",
-            "args": ["1","1","1","7","7","8","3","9","8","8","8"]
+            "args": [
+                "1",
+                "1",
+                "1",
+                "7",
+                "7",
+                "8",
+                "3",
+                "9",
+                "8",
+                "8",
+                "8"
+            ]
         },
         {
             "type": "java",
